@@ -13,7 +13,7 @@ Usage: CabCloningFactory.py <source cab file> <file to place in archive>
 Script running:
 ![Script Image](https://github.com/Keramas/CabCloningFactory/blob/master/Images/CabCloning.png?raw=true)
 
-File comparision:
+File comparision (The file used was a Microsoft signed cab file on one of my boxes):
 ![Script Image2](https://github.com/Keramas/CabCloningFactory/blob/master/Images/File_Compare.PNG?raw=true)
 
 ![Script Image3](https://github.com/Keramas/CabCloningFactory/blob/master/Images/cert_match.PNG?raw=true)
