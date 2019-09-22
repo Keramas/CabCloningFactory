@@ -29,3 +29,4 @@ As a form of archive, cabinet files can be used in "Zip Slip" attacks against co
 
 The integrity of cabinet files are often protected via the use of digital signatures and certificates; however, it is possible to bypass signature and certificate checks through cloning techniques such as this tool.
 
+More details on discovery and implications can be found on my blog entry: !(https://k3ramas.blogspot.com/2019/09/the-time-i-chased-cab-file-zip-slip-and.html)
