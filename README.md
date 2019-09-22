@@ -11,7 +11,7 @@ Usage: CabCloningFactory.py <source cab file> <file to place in archive>
 
 ### Example
 Script running:
-![Script Image](https://github.com/Keramas/CabCloningFactory/blob/master/Images/CabProductionFactory.png?raw=true)
+![Script Image](https://github.com/Keramas/CabCloningFactory/blob/master/Images/CabCloning.png?raw=true)
 
 File comparision:
 ![Script Image2](https://github.com/Keramas/CabCloningFactory/blob/master/Images/File_Compare.PNG?raw=true)
