@@ -25,7 +25,7 @@ def genNewCab(file_name):
             command = f"makecab.exe {file_name} temp_cab.cab"
 
         else:
-            command = f"lcab {file_name} temp_cab.cab"
+            command = f"lcab '{file_name}' temp_cab.cab"
 
         os.system(command)
         print("=" * 20)
